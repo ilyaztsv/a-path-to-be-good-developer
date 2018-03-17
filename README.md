@@ -1,6 +1,6 @@
-# a-path-to-be-good-developer
+# a-path-to-be-good-fe-developer
 
-# ✅ a path to be good developer! 🚀
+✅ a path to be good Frond-end developer! 🚀
 
 ## General
 
@@ -32,6 +32,7 @@
 
 - [ ] [itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - All the things you didn't know you wanted to know about data structures
 - [ ] [succinct-cybernetics](https://github.com/espadrine/succinct-cybernetics) - Computer Science Cheatsheets.
+- [ ] [mnemonist](https://github.com/Yomguithereal/mnemonist) - Curated collection of data structures for the JavaScript language.
 
 ### Design Patterns
 
