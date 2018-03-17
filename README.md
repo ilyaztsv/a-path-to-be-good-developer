@@ -63,3 +63,8 @@
 - [ ] [Vuex](https://vuex.vuejs.org/en/)
 - [ ] [vue-router](https://router.vuejs.org/en/)
 - [ ] [Vue.js Server-Side Rendering](https://ssr.vuejs.org/en/)
+
+## Practice
+
+- [ ] [exercism.io](http://exercism.io/) - Level up your programming skills
+- [ ] [codewars.com](https://www.codewars.com) - Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.
