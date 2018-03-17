@@ -1,6 +1,6 @@
 # a-path-to-be-good-developer
 
-✅ a path to be good developer! 🚀
+# ✅ a path to be good developer! 🚀
 
 ## General
 
@@ -31,6 +31,7 @@
 ### Algorithms and Data structures
 
 - [ ] [itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - All the things you didn't know you wanted to know about data structures
+- [ ] [succinct-cybernetics](https://github.com/espadrine/succinct-cybernetics) - Computer Science Cheatsheets.
 
 ### Design Patterns
 
