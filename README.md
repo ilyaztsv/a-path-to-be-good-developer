@@ -47,6 +47,11 @@
 
 - [ ] [learn-regex](https://github.com/zeeshanu/learn-regex) - Learn regex the easy way
 
+### GNU/Linux
+
+- [ ] [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more
+- [ ] [bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
+
 ### Git
 
 - [ ] [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
