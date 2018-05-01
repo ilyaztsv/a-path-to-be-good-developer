@@ -49,6 +49,7 @@
 
 ### GNU/Linux
 
+- [ ] [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [ ] [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more
 - [ ] [bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
 
