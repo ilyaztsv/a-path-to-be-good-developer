@@ -56,6 +56,7 @@
 
 ### Git
 
+* [ ] [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - Learn Enough Git to Be Dangerous
 * [ ] [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 * [ ] [Oh shit, git!](http://ohshitgit.com/) - Oh shit, git!
 
