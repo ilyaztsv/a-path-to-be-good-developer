@@ -50,6 +50,7 @@
 ### GNU/Linux
 
 * [ ] [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) - Learn Enough Command Line to Be Dangerous
+* [ ] [Conquering the Command Line](http://conqueringthecommandline.com/book) - Conquering the Command Line
 * [ ] [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 * [ ] [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more
 * [ ] [bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
